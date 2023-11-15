@@ -13,6 +13,8 @@ import {
   loadBlocks,
   loadCSS,
   toClassName,
+  decorateBlock,
+  loadBlock
 } from './lib-franklin.js';
 import {
   analyticsTrack404,
