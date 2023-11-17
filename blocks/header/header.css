@@ -314,3 +314,8 @@ header .header-markets {
 header .header-topbar .icon svg {
   height: 100%;
 }
+
+/*adding sizing for new TV logo*/
+header .nav .icon svg {
+  width: 200px;
+}
