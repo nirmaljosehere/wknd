@@ -232,7 +232,7 @@ main input:hover {
 }
 
 main .section {
-  padding: 64px 16px;
+ /* padding: 64px 16px;*/
 }
 
 main pre {
@@ -267,7 +267,7 @@ img {
 
 @media (min-width: 600px) {
   main .section {
-    padding: 64px 32px;
+    /*padding: 64px 32px;*/
   }
 }
 
@@ -350,5 +350,6 @@ main .section[data-section-status='initialized'] {
 }
 
 .default-content-wrapper {
-  margin: 48px 48px 0px;
+ /* margin: 48px 48px 0px; */
+ padding: 30px;
 }
