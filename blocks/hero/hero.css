@@ -42,3 +42,9 @@ main .hero img {
 .hero [data-align="center"] {
     text-align: center;
 }
+
+.hero h1 {
+    font-size: 48px;
+    text-align: center;
+    vertical-align: middle;
+}
